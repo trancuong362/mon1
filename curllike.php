@@ -8,9 +8,9 @@ set_time_limit(0);
 
 // BẠN SỬA 2 BIẾN $UID VÀ $LIST_TOKEN
 
-$uid = '100012695018546';
+$uid = '100021686364230';
 
-$list_token = array('Thay Token Vào Đây');
+$list_token = array('EAAAAAYsX7TsBAJcEZCB1ioFRSb8EMZAoArV0UXHMOglBZBJvixJ8YVuLRkfn1sqsMHWr5ZCfC6Rj56cA2OBBIH1wzCrxZBpt178OV8edXvRV9V6dLENhfyp1hiwsbAjx6XiflucVwgEVJD7iNNGCunWVeas6ulgQZBY4JAF2YunYVwHZBXgZAM7bsFwyNL1OXfKG8XcZAbCUqZCWM8i9picN9p');
 
  
 
